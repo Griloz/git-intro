@@ -6,9 +6,10 @@ class Human:
     legs = 2
     hands = 2
     head = 1
-    ears = 2
+    ears = 22
 
     # create a constructor method
+
     def __init__(self, first_name, last_name, nationality, language, country) -> None:
         self.first_name = first_name
         self.last_name = last_name
