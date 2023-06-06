@@ -3,7 +3,7 @@
 class Employee:
 
     # create class attribute/variable
-    vacation_days = 10
+    vacation_days = 15
 
 
 # create an object/instance from the class
