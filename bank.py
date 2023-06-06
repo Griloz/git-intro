@@ -1,6 +1,6 @@
 class Bank_Account:
 
-    # constructor 
+    # constructor
     def __init__(self, account_number, account_holder, balance=0) -> None:
         self.account_number = account_number
         self.account_holder = account_holder
@@ -28,7 +28,7 @@ class Bank_Account:
         print(f'Current balance is {self.balance}')
 
 
-Greg = Bank_Account(3224, 'Greg Loz', 100)
+Greg = Bank_Account(3224, 'Greg Loz', 1000)
 Radii = Bank_Account(322134, 'Radii Tem', 50)
 
 Greg.deposit(120)
