@@ -9,6 +9,8 @@ class Employee:
 # create an object/instance from the class
 Mike = Employee()
 Jane = Employee()
+Tom = Employee()
+Rick = Employee()
 
 
 print(f'Vacation days of Mike is {Mike.vacation_days}')
