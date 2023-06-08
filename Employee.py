@@ -10,7 +10,7 @@ class Employee:
 Mike = Employee()
 Jane = Employee()
 Tom = Employee()
-Rick = Employee()
+Rock = Employee()
 
 
 print(f'Vacation days of Mike is {Mike.vacation_days}')
