@@ -7,6 +7,7 @@ class Human:
     hands = 2
     head = 1
     ears = 22
+    head = 1
 
     # create a constructor method
 
